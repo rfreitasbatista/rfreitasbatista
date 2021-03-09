@@ -2,6 +2,8 @@
 
 <h4 align=center> Desenvolvedor Backend Java (Spring Boot) e Javascript (Node.js) / Desenvolvedor Frontend React </h4>
 
+<h3 align=center>Como cheguei aqui?</h3>
+
  <p align=justify> Em 2010 ingressei na Universidade de São Paulo, para cursar Engenharia Agronômica. Durante a faculdade, me dediquei a dominar o cultivo protegido, devido à alta tecnologia envolvida no processo. Para conhecer melhor, fiz um intercâmbio na Holanda, acompanhando de perto os melhores produtores nesta área. Foi ai que surgiu um grande interesse pela TECNOLOGIA.
  </p>
  <p align=justify> A cada passo que eu dava dentro da minha profissão, como agrônomo e gestor de vendas, eu identificava a enorme demanda que área de desenvolvimento possuia, e decidi então estudar um pouco por dia sobre Flutter. Era somente o início do que, alguns meses depois, se tornaria minha principal atividade.
@@ -21,6 +23,8 @@
   <img width=100 src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />
   <img width=100 src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" />
 </p>
+<br>
+<h3 align=center>Dados sobre meus repositórios:</h3>
 
 .<p align=center>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfreitasbatista&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
