@@ -20,7 +20,9 @@
 <br>
 <p align=center>
   <img width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width=100 src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width=100 src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" />
 </p>
 <br>
