@@ -37,20 +37,20 @@
 <h3 align=center>Entre em contato 🙂</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/rfreitasbatista/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/rfreitasbatista/" alt="Linkedin" target="_blank">
        <img width=100 src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://gitcorp.prod.cloud.ihf/rfbpawr" alt="Gitlab">
+     <a href="https://gitcorp.prod.cloud.ihf/rfbpawr" alt="Gitlab" target="_blank">
        <img width=100 src="https://download.logo.wine/logo/GitLab/GitLab-Logo.wine.png">
     </a>
  </p>
  <p align="center">
-    <a href="https://www.instagram.com/rfreitasbatista/" alt="Instagram">
+    <a href="https://www.instagram.com/rfreitasbatista/" alt="Instagram" target="_blank">
        <img width=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png">
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:rfreitasbatista@gmail.com" alt="Mail me">
+    <a href="mailto:rfreitasbatista@gmail.com" alt="Mail me" target="_blank">
        <img width=35 src="https://lh3.googleusercontent.com/proxy/rRIjD1vpdtM6jMaYIiZHla5Fw7rfcNifV7K0LEBPOhciBAIzvIfqSoeawfa_qLImFp7RULeej59bkM5teSEp9cji-UWpNDeGMF4LCcrczoiiAGfGiOw">
     </a>
    
