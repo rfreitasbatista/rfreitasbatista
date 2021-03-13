@@ -51,7 +51,7 @@
     </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:rfreitasbatista@gmail.com" alt="Mail me" target="_blank">
-       <img width=35 src="https://pngimg.com/uploads/mailbox/mailbox_PNG76.png">
+       <img width=50 src="https://pngimg.com/uploads/mailbox/mailbox_PNG76.png">
     </a>
    
   </p>
