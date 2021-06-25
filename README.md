@@ -16,15 +16,6 @@
   <p align=justify> Em meu atual emprego, no Itaú, estamos trabalhando com Backend em Java, utilizando Spring Boot e muitas outras tecnologias como Keycloak, Docker, JWT, Kubernetes e AWS. Durante os quatro primeiros meses, fomos treinados para adentrar às squads, com um bootcamp completo, com assinatura do Alura disponível e auxílio completo da Zup Academy. Ou seja, um mundo de cursos em nossas mãos.
   </p>
   
-<h3 align=center>O que estou estudando atualmente?</h3>
-<br>
-<p align=center>
-  <img width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=100 src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=100 src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" />
-</p>
 <br>
 <h3 align=center>Dados sobre meus repositórios: 🗄️</h3>
 
