@@ -1,20 +1,6 @@
 <h2 align=center> Olá, me chamo Rodrigo Freitas Batista 🤘</h2>
 
 <h4 align=center> Desenvolvedor Backend Java (Spring Boot) e Javascript (Node.js) / Desenvolvedor Frontend React </h4>
-
-<h3 align=center>Como cheguei aqui?</h3>
-
- <p align=justify> Em 2010 ingressei na Universidade de São Paulo, para cursar Engenharia Agronômica. Durante a faculdade, me dediquei a dominar o cultivo protegido, devido à alta tecnologia envolvida no processo. Para conhecer melhor, fiz um intercâmbio na Holanda, acompanhando de perto os melhores produtores nesta área. Foi ai que surgiu um grande interesse pela TECNOLOGIA.
- </p>
- <p align=justify> A cada passo que eu dava dentro da minha profissão, como agrônomo e gestor de vendas, eu identificava a enorme demanda que área de desenvolvimento possuia, e decidi então estudar um pouco por dia sobre Flutter, mesmo que bem superficialmente. Era somente o início do que, alguns meses depois, se tornaria minha principal atividade: trabalhar com tecnologia.
-  </p>
-  <p align=justify> Sim, larguei minha carreira e estou me dedicando 100% à este caminho desde o começo de 2020. Estudando pela Trybe, no curso de Desenvolvedor Fullstack, tive contato com inúmeras tecnologias. No Frontend abordamos HTML5, ES6, CSS, React.js, Redux, ContextAPI, Jest, RTL. No Backend: SQL, MongoDB, Node.js, Sequelize, Sockets. Tudo isso embebido em um ecossistema dependente do Github e de Unix. Durante a formação toda, os alunos executam mais de 30 projetos para serem avaliados.
-  </p>
-  <p align=justify> No meu primeiro emprego na área, para a própria Trybe, fiquei responsável por criar, corrigir, remover ou adicionar conteúdos no módulo de Frontend. Um dos maiores desafios que enfrentei por lá foi criar um projeto do zero, com temática interessante e todo conteúdo visto até o bloco, que era de Redux. Avaliar, ensinar, testar e criar algo interessante, tudo ao mesmo tempo, para alunos que estariam sendo desafiados pelo desempenho no projeto.
-  </p>
-  
-  <p align=justify> Em meu atual emprego, no Itaú, estamos trabalhando com Backend em Java, utilizando Spring Boot e muitas outras tecnologias como Keycloak, Docker, JWT, Kubernetes e AWS. Durante os quatro primeiros meses, fomos treinados para adentrar às squads, com um bootcamp completo, com assinatura do Alura disponível e auxílio completo da Zup Academy. Ou seja, um mundo de cursos em nossas mãos.
-  </p>
   
 <br>
 <h3 align=center>Dados sobre meus repositórios: 🗄️</h3>
